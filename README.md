@@ -1,7 +1,5 @@
 Single Cell RNA-Seq
 ================
-Bengy Gyimah-Asamoah
-2023-12-13
 
 Workflow conducting a single-cell RNA-Seq analysis in R using Seurat on
 a 10x Genomics dataset containing sorted cells from human Glioblastoma
